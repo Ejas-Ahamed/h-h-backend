@@ -1,7 +1,7 @@
 var firstName = 'ejas';
 var lastName = 'ahamed';
-var name  = firstName + lastName;
-console.log( name );
+var Name  = firstName + lastName;
+console.log(Name);
 
 
 
